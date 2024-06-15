@@ -1,0 +1,35 @@
+body{
+    background-color: #dce7ec18;
+    margin: 0px;
+    text-align: center;
+}
+.background{
+    background: rgb(193,240,223);
+    background: linear-gradient(126deg, rgba(193,240,223,1) 0%, rgba(131,130,209,1) 100%);
+}
+.head1 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.font1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .pic{
+    border-radius: 50%;
+  }
+  li {
+    list-style-type: none;
+}
+
+.pos{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
